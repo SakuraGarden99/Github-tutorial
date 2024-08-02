@@ -1,2 +1,3 @@
 This is test github file for learning about git push, pull and merge
+chanage made by user 1 not pulled by user 2
 new changes by user 2, pushing before pulling
