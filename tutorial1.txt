@@ -1,1 +1,2 @@
 This is test github file for learning about git push, pull and merge
+new changes by user 2, pushing before pulling
